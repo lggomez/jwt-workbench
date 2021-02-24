@@ -1,0 +1,9 @@
+{
+    "iss": "https://my.test/auth/realms/dev-test",
+    "aud": "api-test",
+    "sub": "59ef5ff2-0655-46f8-9eac-6ca8ef2a672c",
+    "typ": "Bearer",
+    "azp": "my-test",
+    "scope": "test.user",
+    "foo": "bar"
+}
